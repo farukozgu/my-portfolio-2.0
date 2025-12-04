@@ -42,6 +42,8 @@ http://localhost:3000
 ```
 ## 🌍 Live Demo
 
+[www.farukozgu.com](https://www.farukozgu.com)
+
 ## 🤝 Contributions 
 
 This project is personal, but feedback or suggestions are always welcome.
