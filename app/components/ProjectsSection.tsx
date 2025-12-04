@@ -4,7 +4,7 @@ import { SectionWrapper } from "./SectionWrapper";
 import { projects } from "@/data/projects";
 import { motion } from "framer-motion";
 
-const containerVariants = {
+const containerVariants: any = {
     hidden: {},
     visible: {
         transition: {
@@ -13,7 +13,7 @@ const containerVariants = {
     },
 };
 
-const cardVariants = {
+const cardVariants: any = {
     hidden: { opacity: 0, y: 16, scale: 0.98 },
     visible: {
         opacity: 1,
