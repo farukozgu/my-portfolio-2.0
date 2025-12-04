@@ -1,4 +1,4 @@
-# Portfolio – Faruk
+# Portfolio 2.0 
 
 A modern and clean portfolio website built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
 The goal of this project is to present my work, highlight my frontend capabilities, and provide a clear overview of my skills and experience.
